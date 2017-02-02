@@ -58,7 +58,8 @@ authors:
         name: John Doe
         bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: https://www.chelseafc.com/content/cfc/en/ref/clubs/en/chelsea.img.png
+        #assets/images/profile.jpg
         twitter: johndoe
 
 # do you want a larger site? change the option below
